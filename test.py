@@ -1,7 +1,6 @@
 #test file for github tutotial
 
-
 if __name__ == "__main__":
     print("github tutorial")
-    print("hahaha") 
-    print("rebase test") 
+    print("MAKECONFLICT")
+    print("tt")
